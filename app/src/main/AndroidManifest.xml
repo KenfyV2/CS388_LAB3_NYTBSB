@@ -21,7 +21,7 @@
         android:theme="@style/AppTheme"
         tools:targetApi="31">
         <activity
-            android:name="com.codepath.bestsellerlistapp.MainActivity"
+            android:name="com.codepath.flixster.MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
